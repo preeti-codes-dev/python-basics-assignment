@@ -1,11 +1,11 @@
-Python Basics Assignment
-CampusPe
+# Python Basics Assignment
+## CampusPe
 
-Name: Preeti Patil
-College: BMS College of Engineering.
-GitHub Username: preeti-codes-dev.
+#### Name: Preeti Patil
+#### College: BMS College of Engineering.
+#### GitHub Username: preeti-codes-dev.
 
-About This Assignment:
+### About This Assignment:
 
 The given assignment has 20 Python programs on the basis of basic concepts.
 such variables, loops, conditions, functions, strings and lists.
@@ -13,7 +13,7 @@ such variables, loops, conditions, functions, strings and lists.
 The programs have been written in straightforward logic.
 It has comments which explain the working of each program.
 
-Questions Completed:
+#### Questions Completed:
 
 Q1  - Student Bio Card  
 Q2  - Simple Calculator  
@@ -36,7 +36,7 @@ Q18 - Funtion based calculator.
 Q19 - Text Analysis Program  
 Q20 - Number System Converter  
 
-Specific Instructions Adhered To:
+## Specific Instructions Adhered To:
 
 Relevant variables names are employed.
 All programs include comments with logic explanations.
@@ -45,7 +45,7 @@ Menu based programs are carried out with while loops.
 Programs are executed using varying inputs.
 Sample output is matched with the output format wherever necessary.
 
-Challenges Faced:
+## Challenges Faced:
 
 Learning about the nested loops in pattern printing.
 The administration of menu-based programs.
@@ -54,7 +54,7 @@ Dealing with jump year logic and prime number logic.
 Controlling the history of transactions in ATM.
 It is possible to solve Git push and pull errors.
 
-Academic Integrity:
+## Academic Integrity:
 
 Every program is authored and comprehended in stages.
 I put the reasoning into practice before submission.
